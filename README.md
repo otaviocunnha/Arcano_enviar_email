@@ -1,2 +1,2 @@
 # Arcano_enviar_email
-Compartilhando o meu mais recente projeto: Um software que desenvolvi para automação de envio de e-mails para um grupo de pessoas, com anexo podendo ser uma ou mais abas de um Excel, usando Python e Qt Designer.
+Compartilhando meu projeto, o 'Arcano_enviar_email': um software desenvolvido para automação de envio de e-mails para um grupo de pessoas. Ele permite anexar uma ou mais abas de um arquivo Excel e oferece autonomia ao usuário para escolher os destinatários. Para armazenar os dados, utilizei um banco de dados em formato TXT. O projeto foi implementado em Python e tem um Front End criado com o Qt Designer
